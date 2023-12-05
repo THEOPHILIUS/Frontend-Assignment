@@ -1,0 +1,59 @@
+General Styling
+#Header {
+    background-color: #0077cc;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+#About {
+    background-color: rgb(101, 241, 101);
+}
+
+#Projects {
+    background-color: rgb(101, 241, 101);
+}
+
+#Contact {
+    background-color: rgb(101, 241, 101);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 5;
+    padding: 5px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3 {
+    color: #0077cc;
+}
+
+a {
+    text-decoration: none;
+    color: #0077cc;
+}
+
+a:hover {
+    color: #005fa3;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
